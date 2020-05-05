@@ -16,6 +16,7 @@
 		<br> Password : <input type="text" name="pass" /> <br>
 		<br> <input type="submit" name="submit">
 	</form>
+	<p>${message}</p>
 
 
 

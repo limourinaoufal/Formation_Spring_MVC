@@ -30,9 +30,9 @@ public class ControllerRequest {
 			model.addAttribute("message",msg);
 			return H_URL+"clientHome";
 		}else{
-			String msg="Sorry "+ name+". You entered an incorrect password";  
+			String msg="Sorry "+ name+". You entered an incorrect password -> mdp : ADMIN /CLIENTT ";  
             model.addAttribute("message", msg);  
-            return H_URL+"errorpage";  
+            return H_URL+"loginPage";  
 		}
 		
 	}

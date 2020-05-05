@@ -1,8 +1,0 @@
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:24 +0100] "GET /Formation_Spring_MVC/ HTTP/1.1" 200 514 http-bio-8080-exec-1 688
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:26 +0100] "GET /Formation_Spring_MVC/login HTTP/1.1" 200 618 http-bio-8080-exec-3 285
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:38 +0100] "GET /Formation_Spring_MVC/authentification?name=Lina&pass=admin&submit=Soumettre+la+requ%EAte HTTP/1.1" 200 447 http-bio-8080-exec-4 144
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:43 +0100] "GET /Formation_Spring_MVC/ HTTP/1.1" 200 514 http-bio-8080-exec-5 4
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:44 +0100] "GET /Formation_Spring_MVC/login HTTP/1.1" 200 618 http-bio-8080-exec-6 8
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:50 +0100] "GET /Formation_Spring_MVC/authentification?name=aaaa&pass=clinet&submit=Soumettre+la+requ%EAte HTTP/1.1" 200 461 http-bio-8080-exec-7 103
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:52 +0100] "GET /Formation_Spring_MVC/ HTTP/1.1" 200 514 http-bio-8080-exec-8 6
-0:0:0:0:0:0:0:1 - - [25/Apr/2020:05:20:53 +0100] "GET /Formation_Spring_MVC/login HTTP/1.1" 200 618 http-bio-8080-exec-9 6
